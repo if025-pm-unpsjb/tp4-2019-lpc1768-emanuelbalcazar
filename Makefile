@@ -4,7 +4,7 @@ BUILD_DIR = ./build
 
 PROJ = blink
 
-OBJECTS += ./main2.o
+OBJECTS += ./main3.o
 
 SYS_OBJECTS += ./mbed/TARGET_LPC1768/TOOLCHAIN_GCC_ARM/analogin_api.o
 SYS_OBJECTS += ./mbed/TARGET_LPC1768/TOOLCHAIN_GCC_ARM/analogout_api.o
